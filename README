@@ -1,0 +1,3 @@
+Para que funcione el projecto has de crear un archivo .env en DataControler y asignar las variables para la conexion de la base de datos y la key para encriptar los tokens
+
+y crear una carpeta keys con las claves auto firmadas en la carpeta actual del readmi

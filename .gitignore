@@ -1,0 +1,9 @@
+# Ignorar el archivo .env
+*.env
+
+# Ignorar archivos de caché
+**/__pycache__/
+# Ignora los certificados
+
+/keys/
+
